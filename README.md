@@ -13,7 +13,8 @@ This project utilises Microsoft Excel for comprehensive analysis of car insuranc
 - Advanced Excel Functions
 
 ## Introduction
-This project undertakes a comprehensive analysis of car insurance claims fraud using Microsoft Excel, aiming to uncover valuable insights. The analysis workflow includes essential stages such as data preparation, data modeling, data validation, data visualisation, and data analysis. Furthermore, to facilitate effective communication of the findings, compelling visualisations and analytical models have been developed within Excel. These tools provide an intuitive and user-friendly platform for exploring and interpreting the analyzed data, enhancing the accessibility and usability of the insights gained from the Excel analysis.
+
+This project delves into car insurance claims fraud analysis using Microsoft Excel, aiming to unveil critical insights into fraudulent behaviors within the insurance industry. The project encompasses essential phases including data preparation, modeling, validation, visualization, and analysis. Through a detailed workflow, it leverages Excel’s capabilities to create compelling visualizations and analytical models. These tools offer a user-friendly platform to explore and interpret data, enhancing accessibility and clarity of the insights derived from the analysis.
 
 **Project Author:** [Jibrin Tijjani Isiaka](https://github.com/Adnanisme)
 
@@ -108,10 +109,8 @@ To begin, a new Excel sheet was created specifically for the purpose of visualiz
 
 To enhance interactivity and provide viewers with more control over the data exploration process, slicers were incorporated into the dashboard. Slicers function as interactive filters that allow for further data segmentation based on different criteria and the specific interests of the viewer. By utilizing slicers, viewers can dynamically adjust the displayed data, focusing on specific subsets or dimensions of the analysis that are most relevant to their investigation.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackcrowX/blackcrowX.github.io/main/images/project_I/screenshot_7.jpg"/>
-  <em>Figure 7: Car Insurance Claim Fraud Dashboard Visualisation</em>
-</p>
+![367110007-fa2464b9-e521-4181-b122-81b8f080f9b9](https://github.com/user-attachments/assets/97623315-f913-4d0a-adce-5c1e39c4732c)
+
 
 These features collectively contribute to a more intuitive and user-friendly data visualisation experience. By presenting the analyzed information on a dedicated dashboard, viewers can quickly grasp the key insights and trends without feeling overwhelmed by the complexity of the underlying data. The inclusion of slicers adds an extra layer of interactivity, enabling viewers to explore the data from different angles and refine their analysis based on specific filters of interest.
 
@@ -131,14 +130,16 @@ Using the modelled data in the dashboard, I was able to answer the initial quest
 
 These data analysis findings provide valuable insights into the characteristics and patterns associated with car insurance claim fraud. The identified trends and relationships offer actionable recommendations for heightened vigilance when handling claims from specific states, insured individuals with certain profiles, and incidents displaying particular patterns. The analysis contributes to a better understanding of fraudulent claims and supports decision-making processes aimed at detecting and mitigating insurance fraud.
 
-## Conclusion
+Sure, here’s the revised introduction and conclusion for your project:
 
-In conclusion, this project successfully analyzed car insurance claim fraud using Microsoft Excel, leveraging advanced techniques such as PowerQuery, PowerPivot, PivotTable, PivotChart, and Regression Analysis. By investigating key indicators and patterns associated with fraudulent claims, insurance companies can enhance their fraud detection and prevention strategies.
+---
 
-Moving forward, several areas warrant further exploration:
+**Conclusion**
 
-1. **Develop advanced predictive models:** Utilize machine learning algorithms and techniques to build predictive models that can accurately detect fraudulent claims in real-time.
+In conclusion, this project has effectively utilized Microsoft Excel to analyze car insurance claim fraud, employing advanced techniques such as PowerQuery, PowerPivot, PivotTable, PivotChart, and Regression Analysis. The findings reveal key patterns and indicators of fraudulent claims, providing actionable insights for insurance companies to refine their fraud detection and prevention strategies.
 
-2. **Expand the dataset:** Incorporate a larger and more diverse dataset to increase the robustness and generalizability of the analysis.
+Future steps should include:
+1. **Developing advanced predictive models:** Integrate machine learning algorithms to enhance real-time fraud detection.
+2. **Expanding the dataset:** Use a larger and more varied dataset to improve the analysis’s robustness and generalizability.
 
-By pursuing these next steps, insurance companies can further strengthen their ability to identify and mitigate car insurance claim fraud, ultimately minimizing financial losses and improving customer trust.
+By pursuing these directions, insurance companies can further bolster their capabilities in identifying and mitigating fraudulent claims, thereby reducing financial losses and strengthening customer trust.
